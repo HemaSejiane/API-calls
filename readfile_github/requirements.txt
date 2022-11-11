@@ -1,4 +1,4 @@
 hvac==0.6.0
-pyspark==2.4.0
+pyspark==3.2.2
 hdfs[kerberos]==2.1.0
 
